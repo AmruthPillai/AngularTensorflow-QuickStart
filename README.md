@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
-![Screenshot of Application in Action](screenshot.png)
+![Screenshot of Application in Action](linear.png)
+![Screenshot of Application in Action](mnist.png)
 
 ## Development server
 

@@ -23,6 +23,7 @@
     "@tensorflow/tfjs": "^0.10.3",
     "bootstrap": "^4.1.1",
     "core-js": "^2.5.4",
+    "ng2-charts": "^1.6.0",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
   },
